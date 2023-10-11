@@ -13,7 +13,7 @@ visualization, and the implementation ofHtml model to provide insights and recom
 - **Objective**: Develop a recommendation model for restaurant in NewYork City.
 - **Data Source**: Scrape data from Grubhub using Python.
 - **Libraries Used**: NumPy, Pandas, Seaborn, Matplotlib.
-- **Recommendation Model**: Predict preferred price and suggest a suitable location based on cuisine and price.
+- **Recommendation Model**: Predict preferred price and suggest a suitable location based on cuisine and price
 
 <br>
 
