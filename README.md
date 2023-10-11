@@ -35,6 +35,43 @@ SMS Spam Classifier 📱🚫 This project leverages machine learning techniques 
 
 - **Implications**: The project's findings can be valuable for understanding user interactions and communication habits.
 
+# [project 3: Prime_Video_Analysis](https://github.com/ishita-goyal-019/Prime_Video_Analysis)
+
+This project focuses on exploring and analyzing user behavior on the Amazon Prime Video platform using Exploratory Data Analysis . The goal is to uncover insights into user preferences, viewing patterns, and trends by analyzing a real-world dataset sourced from Kaggle.
 
 
+![Prime video logo](https://github.com/ishita-goyal-019/Prime_Video_Analysis/assets/145800141/3e0c7b6e-749e-4354-879a-5156dcd4e9b8)
 
+
+## Project Overview
+
+- **Data Source**: Data was taken from Kaggle dataset.
+
+- **Objective**: This project dives into the world of Prime Video  Data Analysis (Visualization).
+
+- **Libraries Used**: Leveraging Python libraries like NumPy, Pandas, Seaborn, and Matplotlib.
+
+- **Implications**: The project's findings have implications for content creators, marketers, and platform optimization.
+
+- **Significance**: Understanding user preferences and behaviors can aid in tailoring content offerings and enhancing user experience.
+
+# [project 4: Road-Accident-Analysis]https://github.com/ishita-goyal-019/Road-Accident-Analysis)
+
+Developed an interactive Power Bi dashboard for Road Accident Analysis, enabling comprehensive visualization and analysis of accident data This tool has proven instrumental in improving road safety initiatives, identifying high-risk areas, and supporting data-driven policy decision, ultimately contributing to a reduction in road accidents.
+
+
+![dbvjggg-62438fe3-22cc-433a-a97a-af8e534b0f8f](https://github.com/ishita-goyal-019/Road-Accident-Analysis/assets/145800141/d59d3bd4-257e-4354-86a5-07c7be0b660d)
+
+<br>
+
+## Project Overview
+
+- **Data Source**: Data was taken from Kaggle dataset.
+
+- **Objective**: This project dives into the world of Road Accident Data Analysis (Visualization).
+
+- **Libraries Used**: Leveraging Python libraries like NumPy, Pandas, Seaborn, and Matplotlib.
+
+- **Implications**: The project's findings have implications for content creators, marketers, and platform optimization.
+
+- **Significance**: Understanding user preferences and behaviors can aid in tailoring content offerings and enhancing user experience.
